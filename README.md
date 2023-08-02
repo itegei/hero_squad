@@ -2,7 +2,7 @@
 
 This project is about Hero Squad Game Using Java Program.
 
-Version Date: 2nd August 2023
+Version Date: 5th July 2023
 
 By Isaac Tegei
 
