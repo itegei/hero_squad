@@ -1,4 +1,4 @@
-#### Tegei Hero Squad Game Using Java Program
+###### Tegei Hero Squad Game Using Java Program
 
 This project is about Hero Squad Game Using Java Program.
 
