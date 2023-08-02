@@ -92,7 +92,7 @@ IntelliJ IDEA
 
 ## Support and Contact Details
 
-If you need any assistance, have questions, ideas, or concerns, kindly contact me through email: isaac.tegei@gmail.com
+For any assistance, questions, ideas, or concerns, kindly contact me through email: isaac.tegei@gmail.com
 You can also make a contribution to the code or seek assistance for the app/project.
 
 ## GitHub URL Link
